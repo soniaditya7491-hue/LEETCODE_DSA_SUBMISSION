@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0268-missing-number) |
+| [1796-second-largest-digit-in-a-string](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/1796-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
