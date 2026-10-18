@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
