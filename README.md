@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0283-move-zeroes) |
@@ -13,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/1796-second-largest-digit-in-a-string) |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
