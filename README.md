@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0283-move-zeroes) |
@@ -89,4 +90,5 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
