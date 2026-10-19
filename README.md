@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
