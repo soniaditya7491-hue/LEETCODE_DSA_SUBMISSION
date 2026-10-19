@@ -6,6 +6,7 @@ class Solution {
         for(int i=0;i<prices.length;i++)
         {
             minPerch=Math.min(minPerch,prices[i]);
+            
             maxPro=Math.max(maxPro,prices[i]-minPerch);
         }
        return maxPro;
