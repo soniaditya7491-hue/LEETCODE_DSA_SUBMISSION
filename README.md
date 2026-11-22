@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0088-merge-sorted-array) |
@@ -31,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -107,5 +109,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
