@@ -56,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0125-valid-palindrome) |
 | [1796-second-largest-digit-in-a-string](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/1796-second-largest-digit-in-a-string) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@
 | [0011-container-with-most-water](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/soniaditya7491-hue/LEETCODE_DSA_SUBMISSION/tree/master/2149-rearrange-array-elements-by-sign) |
